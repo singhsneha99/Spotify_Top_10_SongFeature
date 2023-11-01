@@ -18,7 +18,7 @@ This enables you to go beyond just a list of your top tracks and gain insights i
 
 1. Clone this repo 
 2. Obtain your Spotify developer credentials (Client ID & Client Secret)
-3. Add your credentials and Spotify username to the notebook
+3. Add your credentials and Spotify username to the notebook (Obtain username from Spotify Account details)
 4. Run the notebook cells to fetch your data and generate visualizations
 
 ## Requirements
